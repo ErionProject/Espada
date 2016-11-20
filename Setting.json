@@ -1,6 +1,6 @@
 {
   "isCheck": "false",
-  "checkCause": "wait",
+  "checkCause": "error",
   "checkTime": "2016/11/17 18:50 ~ 미정",
   "checkCause_list": {
     "custom": "",
